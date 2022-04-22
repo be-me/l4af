@@ -136,4 +136,4 @@ const App = () => (
 
 render(<App />, document.getElementById('root'))
 
-export default IndexPage
+export default IndexPage, App
